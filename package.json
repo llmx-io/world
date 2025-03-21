@@ -21,7 +21,7 @@
     "react-dom": "19.0.0"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20250313.0",
+    "@cloudflare/workers-types": "^4.20250320.0",
     "@types/react": "19.0.12",
     "@types/react-dom": "19.0.4",
     "esbuild": "0.25.1",
